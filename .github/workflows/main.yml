@@ -22,4 +22,4 @@ jobs:
         with:
           context: ./app
           push: true
-          tags: aabda2006/flask-app:latest
+          tags: simonleclere/flask-postgres-app:latest
